@@ -4,7 +4,7 @@ Face Detection with OpenCV
 First you shoul install OpenCV:
 
 pip install opencv-python.
-To detect face we will try three different dector:
+To detect face we will try three different detectors:
 
  - haarcascade_frontalface_default
  - haarcascade_frontalface_alt_tree (The worst)
